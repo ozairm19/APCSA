@@ -24,7 +24,7 @@ public class Lab02v100
        System.out.println("Blah Blah Blah");
        System.out.println();
        
-       System.out.println("More lines");
+       System.out.println("More lines ");
        System.out.println("7 + 10 = 99");
        
 }}
