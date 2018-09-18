@@ -13,7 +13,7 @@ public class Lab02v100
 {
    public static void main(String[] args)
    {
-       System.out.println("Lab 02, 80 Point Version");
+       System.out.println("Lab 02,100 Point Version");
        System.out.println();
        System.out.println();
        System.out.println("Measure today's knowledge");
@@ -21,10 +21,10 @@ public class Lab02v100
        System.out.println();
        System.out.println("Bewildermment + Exposure = Obvious");
        System.out.println();
-       System.out.println("Blah Blah Blah");
-       System.out.println();
-       
-       System.out.println("More lines ");
-       System.out.println("7 + 10 = 99");
+       System.out.println("# ##### #####    ##### ##### # #   # ##### #####");
+       System.out.println("# #   # #   #    #   # #   # # ##  #   #   #");
+       System.out.println("# #   # #   #    ##### #   # # # # #   #   #####");
+       System.out.println("# #   # #   #    #     #   # # #  ##   #       #");
+       System.out.println("# ##### #####    #     ##### # #   #   #   #####");
        
 }}
